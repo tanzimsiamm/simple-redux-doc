@@ -1,4 +1,4 @@
-# Redux and RTK Query Explained (Updated for Current Version)
+# Redux and RTK Query 
 
 Redux and RTK Query are powerful tools for managing state and data fetching in React applications. Below is a detailed explanation with examples, updated for the current version of Redux (Redux Toolkit).
 
